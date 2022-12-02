@@ -1,5 +1,6 @@
 [
-{       "id": 123,
+        { 
+        "id": 123,
         "category": "animal welfare",
         "title": "Cat adoption day",
         "description": "find your new feline friend at this event",
@@ -7,8 +8,8 @@
         "date": "january 28, 2022",
         "time": "12:00",
         "organizer": "kat laydee",
-      },
-{
+        },
+        {
         "id": 456,
         "category": "food",
         "title": "Community gardening",
@@ -17,8 +18,8 @@
         "date": "March 14, 2022",
         "time": "10:00",
         "organizer": "Fern pollin",
-      },
-{
+        },
+        {
         "id": 789,
         "category": "sustainability",
         "title": "Beach cleanup",
